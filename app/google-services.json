@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "331247365196",
+    "firebase_url": "https://androidtv-5cdd3.firebaseio.com",
+    "project_id": "androidtv-5cdd3",
+    "storage_bucket": "androidtv-5cdd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331247365196:android:63e75c4e1326b8d3a618e9",
+        "android_client_info": {
+          "package_name": "com.medantechno.androidtv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331247365196-nl69etacqdavom5atkb8mdsgfjmkh7ec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medantechno.androidtv",
+            "certificate_hash": "9bf617b0c89711441454e3c36b29e0a99596de39"
+          }
+        },
+        {
+          "client_id": "331247365196-355lubr24h0pk5l5kap153io644iq44g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJPPTY35yZwqvIjjHS6-mWf5dMIw9kvNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331247365196-355lubr24h0pk5l5kap153io644iq44g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
